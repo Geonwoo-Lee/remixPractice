@@ -1,0 +1,33 @@
+{
+    "remixta": [
+      {
+        "id": 1,
+        "name": "이건우",
+        "title": "이게 맞나 ?",
+        "body": "이렇게 하는게 맞는지 모르겠으니 일단 해보자",
+        "img": "https://ifh.cc/g/oy6WB4.jpg"
+      },
+      {
+        "id": 2,
+        "name": "히샬리숑",
+        "title": "브라질의 축구왕은 나지 !",
+        "body": "라곤 하지만 ... 난 8강 광탈인걸 ㅜ",
+        "img": "https://ifh.cc/g/Qkko20.jpg"
+      },
+      {
+        "id": 3,
+        "name": "클템",
+        "title": "와아아아아ㅏㄱ 비상!!!!!!",
+        "body": "쵸비상!!!!!!!",
+        "img": "https://ifh.cc/g/2NrpVH.jpg"
+      }
+    ],
+    "userInfo": 
+        {
+            "username": "snoopy",
+            "fallower": "500K",
+            "fallowing": "3",
+            "post": "3",
+            "userimage": "https://ifh.cc/g/HgkZdp.png"
+        }
+}
